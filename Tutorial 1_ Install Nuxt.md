@@ -28,4 +28,4 @@ npm run dev
 - Open in browser **http://localhost:3000/**
 
 #
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-bootstrap5/-/blob/main/Tutorial%202:%20Install%20Bootstrap%205.md)
+[Next >>](https://github.com/ajmalnorshawali/setup-nuxt3-bootstrap5/blob/main/Tutorial%202_%20Install%20Bootstrap%205.md)
