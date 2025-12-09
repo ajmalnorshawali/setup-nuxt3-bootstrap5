@@ -53,6 +53,6 @@ export default defineNuxtConfig({
 - Save
 
 #
-[<< Prev](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-bootstrap5/-/blob/main/Tutorial%201:%20Install%20Nuxt.md)
+[<< Prev](https://github.com/ajmalnorshawali/setup-nuxt3-bootstrap5/blob/main/Tutorial%201_%20Install%20Nuxt.md)
 |
-[Next >>](https://code.cloud-connect.asia/ajmalnorshawali/setup-nuxt3-bootstrap5/-/blob/main/Tutorial%203:%20Nuxt%20Views.md)
+[Next >>](https://github.com/ajmalnorshawali/setup-nuxt3-bootstrap5/blob/main/Tutorial%203_%20Nuxt%20Views.md)
